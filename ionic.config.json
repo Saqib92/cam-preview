@@ -1,0 +1,7 @@
+{
+  "name": "cam-pre",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
